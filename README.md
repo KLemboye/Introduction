@@ -1,6 +1,6 @@
 <h1 align="center"> KAREEM LEMBOYE </h1>
 
-# <h1 align="center"> [About Me](https://github.com/KLemboye/KLemboye/blob/ec80d880a53110e22b4bd28294bf5c34d47374e1/README.md), [Projects](https://github.com/KLemboye/Projects/blob/5c8c576c22e67dfecaf215aa241877e160fb67e4/README.md) </h1>
+# <h1 align="center"> [About Me](https://github.com/KLemboye/KLemboye/blob/ec80d880a53110e22b4bd28294bf5c34d47374e1/README.md)  $~~~$  [Projects](https://github.com/KLemboye/Projects/blob/5c8c576c22e67dfecaf215aa241877e160fb67e4/README.md)  $~~~$  [SQL Practice Problems](https://github.com/KLemboye/SQL-Practice-Problems/blob/f5e349bd10616d92a4654ba27eaf540d1b2042fa/README.md)  $~~~$  [Resume]  $~~~$  [Cover Letter]  </h1>
 
 # About Me
 
