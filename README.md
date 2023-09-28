@@ -32,6 +32,8 @@ I hold a Master’s Degree (M.Sc.) in Mechanical Engineering and a Bachelor’s 
 In summary, I am a dedicated and results-driven professional with a strong background in business intelligence and data analytics. My technical expertise, collaborative nature, and commitment to delivering high-quality work make me a valuable asset to any organization or project. I look forward to leveraging my skills and experience to contribute to the success of future endeavors.
 
 # [Projects](https://github.com/KLemboye/Projects/blob/5c8c576c22e67dfecaf215aa241877e160fb67e4/README.md)
+## [Sales Management and Analysis](https://github.com/KLemboye/Projects/blob/5c8c576c22e67dfecaf215aa241877e160fb67e4/Sales%20Management%20and%20Analysis.md)
+
 # [SQL Practice Problems](https://github.com/KLemboye/SQL-Practice-Problems/blob/f5e349bd10616d92a4654ba27eaf540d1b2042fa/README.md)
 # Resume
 # Cover Letter
