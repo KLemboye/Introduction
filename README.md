@@ -1,5 +1,8 @@
+<h1 align="center"> KAREEM LEMBOYE </h1>
+
+# <h1 align="center"> About Me, [Projects](https://github.com/KLemboye/Projects/blob/5c8c576c22e67dfecaf215aa241877e160fb67e4/README.md) </h1>
+
 # About Me
-## Introduction
 
 I am Kareem Lemboye, a highly skilled and dynamic professional with over 5 years of experience in the field of business intelligence and data analytics. My career has been dedicated to leveraging data-driven insights to optimize business processes and drive strategic decision-making. I am proficient in data analysis, visualization, and reporting as well as using various business intelligence tools and methodologies to effectively translate complex data into actionable insights.
 
